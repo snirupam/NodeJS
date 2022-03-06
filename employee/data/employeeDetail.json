@@ -1,0 +1,25 @@
+{
+    "employee":[
+        {
+            "employeeId":1,
+            "firstName":"Nirupam",
+            "lastName":"Sinha",
+            "department":"IT",
+            "designation":"Manager"
+        },
+        {
+            "employeeId":2,
+            "firstName":"Naveen",
+            "lastName":"Mishra",
+            "department":"Finance",
+            "designation":"Auditor"
+        },
+        {
+            "employeeId":3,
+            "firstName":"Nishant",
+            "lastName":"Roy",
+            "department":"IT",
+            "designation":"Technical Lead"
+        }
+    ]
+}
